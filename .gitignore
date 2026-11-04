@@ -1,0 +1,12 @@
+
+# Composer packages: run `composer install` to restore them
+/vendor/autoload.php
+/vendor/composer/
+/vendor/filp/
+/vendor/mpdf/
+/vendor/myclabs/
+/vendor/paragonie/
+/vendor/picqer/
+/vendor/psr/
+/vendor/ros/
+/vendor/setasign/
